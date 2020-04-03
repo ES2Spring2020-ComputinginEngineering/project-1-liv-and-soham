@@ -1,0 +1,8 @@
+Run step4_analysis.py to get results (plots of accelerations and angles vs. time) for individual lengths. 
+To change the length to be plotted, change the assignment of the variable “filename” to one of the following 
+data files for different pendulum lengths:
+length 18.csv
+length 24.5.csv
+length 31.5.csv
+length 39.csv
+length 48.5.csv
